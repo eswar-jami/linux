@@ -1,3 +1,3 @@
 # Linux
 
-![Linux commad imag](/img/linux)
+![Linux commad imag](/img/Linux.png)
