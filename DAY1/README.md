@@ -4,7 +4,7 @@ ls
 ls-1
 
 
-![Linux commad imag](/img/Linux.png)
+![Linux commad imag](../img/Linux.png)
 
 output
-![Linux commad imag](/img/Linux.png)
+![Linux commad imag](../img/Linux.png)
